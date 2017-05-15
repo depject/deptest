@@ -49,16 +49,18 @@ outputs
 
 ### Needs
 
+```js
 exports.needs = nest({
   'tests': 'reduce'
 })
+```
 
 ### Gives
-
+```js
 exports.gives = nest({
   'test'
 })
-
+```
 
 ### Giving `tests` functions
 
