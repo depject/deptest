@@ -20,7 +20,7 @@ const tests = {
     }
   }
 }
- 
+
 const modules = combine([tests, deptest])
 
 first(modules.test)()
