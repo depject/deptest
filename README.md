@@ -31,7 +31,7 @@ const tests = {
 }
  
 //lines below would normally be in test.js or similar
-//combine your modules with deptest
+//combine your tests with with your other modules
 const modules = combine([tests, deptest])
 
 //Run the tests!
@@ -81,15 +81,11 @@ With [npm](https://npmjs.org/) installed, run
 $ npm install deptest
 ```
 
-## Acknowledgments
-
-deptest was inspired by..
-
 ## See Also
 
+- [depject](https://github.com/depject/depject) 
+- [pull-test](https://github.com/ahdinosaur/pull-test) 
 - [`noffle/common-readme`](https://github.com/noffle/common-readme)
-- [depject]() 
-- [pull-test]() 
 
 ## License
 
