@@ -23,6 +23,7 @@
   "homepage": "https://github.com/depject/deptest#readme",
   "dependencies": {
     "depject": "^4.1.0",
+    "depnest": "^1.3.0",
     "pull-test": "^1.2.3"
   }
 }
