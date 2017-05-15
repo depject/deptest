@@ -1,0 +1,28 @@
+{
+  "name": "deptest",
+  "version": "1.0.0",
+  "description": "depject plugin for tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/depject/deptest.git"
+  },
+  "keywords": [
+    "depject",
+    "pull-test",
+    "testing"
+  ],
+  "author": "pietgeursen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/depject/deptest/issues"
+  },
+  "homepage": "https://github.com/depject/deptest#readme",
+  "dependencies": {
+    "depject": "^4.1.0",
+    "pull-test": "^1.2.3"
+  }
+}
