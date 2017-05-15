@@ -31,7 +31,7 @@ const tests = {
 }
  
 //lines below would normally be in test.js or similar
-//combine your tests with with your other modules
+//combine your tests with your other modules
 const modules = combine([tests, deptest])
 
 //Run the tests!
